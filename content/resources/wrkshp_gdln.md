@@ -7,10 +7,10 @@ file: /media/courses/21w-730-5-writing-on-contemporary-issues-culture-shock-writ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: The Writing Workshop
+type: OCWFile
 uid: bca22bb0-ef5f-5a15-db9b-8f2190eb6d87
 ---

@@ -6,10 +6,10 @@ file: /media/courses/21w-730-5-writing-on-contemporary-issues-culture-shock-writ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Writing and Reading Profile
+type: OCWFile
 uid: 0775968a-ac37-7697-14ae-f62eae49d3c8
 ---

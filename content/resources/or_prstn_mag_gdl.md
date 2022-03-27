@@ -6,10 +6,10 @@ file: /media/courses/21w-730-5-writing-on-contemporary-issues-culture-shock-writ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Guidelines for Oral Presentations on Online Magazines
+type: OCWFile
 uid: 1e42eafe-cdbc-42ac-6722-1d087e616074
 ---

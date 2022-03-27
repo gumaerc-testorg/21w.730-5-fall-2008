@@ -6,10 +6,10 @@ file: /media/courses/21w-730-5-writing-on-contemporary-issues-culture-shock-writ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Preparing Your Portfolio for Submission
+type: OCWFile
 uid: 43643c9f-51eb-5650-b223-1468b8f4e454
 ---
