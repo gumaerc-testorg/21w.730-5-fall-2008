@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbooks, workshops, course requirements, attendance, grading,
+  plagiarism, and the schedule of lecture topics and key dates for the course.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: e5d59fff-6c22-a632-c2cf-463e5724c3c3
 ---
 
@@ -23,7 +26,7 @@ Another writing teacher once wrote, "Writing emerges from writing." That is to s
 Textbooks
 ---------
 
-Please see [readings]({{< baseurl >}}/pages/readings) for more detailed information about the following listed items.
+Please see {{% resource_link 00bc9858-7f4c-67e3-0711-5df8e184615c "readings" %}} for more detailed information about the following listed items.
 
 Latterell, Catherine G. _ReMix: Reading and Composing Culture_. 1st ed. Boston, MA: Bedford/St. Martin's, 2005. ISBN: 9780312430184.
 

@@ -6,6 +6,7 @@ file: /courses/21w-730-5-writing-on-contemporary-issues-culture-shock-writing-ed
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Guidelines for Oral Presentations on Online Magazines
 uid: 1e42eafe-cdbc-42ac-6722-1d087e616074
 ---
 Guidelines for preparing for the oral presentation assignment of the course.
-

@@ -33,7 +33,9 @@
   },
   "course_title": "Writing on Contemporary Issues: Culture Shock! Writing, Editing, and Publishing in Cyberspace",
   "course_description": "This course is an introduction to writing prose for a public audience\u2014specifically, prose that is both critical and personal, that features your ideas, your perspective, and your voice to engage readers. The focus of our reading and your writing will be American popular culture, broadly defined. That is, you will write **essays** that critically engage elements and aspects of contemporary American popular culture and that do so via a vivid personal voice and presence. In the coming weeks we will read a number of pieces that address current issues in popular culture. These readings will address a great many subjects from the contemporary world to launch and elaborate an argument or position or refined observation. And you yourselves will write a great deal, attending always to the ways your purpose in writing and your intended audience shape what and how you write. The end result of our collaborative work will be a new edition, the seventh, of _Culture Shock!_, an online magazine of writings on American popular culture, which we will post on the Web for the worldwide reading public to enjoy.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.730-5",
   "course_image_thumbnail": {
@@ -44,6 +46,6 @@
     "Presentation Assignments",
     "Written Assignments with Examples"
   ],
-  "site_uid": "cf1cbc51-a11f-4835-b0a1-605580cf72af",
+  "site_uid": "0cb638d6-84d9-4b72-b754-de757bedeb48",
   "title": "Course Metadata"
 }

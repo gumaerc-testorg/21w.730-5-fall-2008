@@ -1,34 +1,36 @@
 ---
 content_type: page
+description: This section provides information on writing assignments, oral presentation
+  assignments, workshops, portfolios, and examples of student work.
 learning_resource_types: []
+ocw_type: ''
 title: Assignments
-type: CourseSection
 uid: df3ec38e-28ad-ae63-32ac-cad1b2e140cd
 ---
 
 Writing
 -------
 
-Writing and reading profile ([PDF]({{< baseurl >}}/resources/rdin_n_wr_prf))
+Writing and reading profile ({{% resource_link 0775968a-ac37-7697-14ae-f62eae49d3c8 "PDF" %}})
 
-Investigative essay ([PDF]({{< baseurl >}}/resources/invest_esy))
+Investigative essay ({{% resource_link 2b376bc3-4f86-2239-5b9a-03f982c14740 "PDF" %}})
 
 Oral Presentation
 -----------------
 
-Oral presentation guidelines ([PDF]({{< baseurl >}}/resources/or_prstn_gdln))
+Oral presentation guidelines ({{% resource_link 2bfcbbfa-2540-b48a-2863-b73f7e5340f1 "PDF" %}})
 
-Oral presentation guidelines for online magazines ([PDF]({{< baseurl >}}/resources/or_prstn_mag_gdl))
+Oral presentation guidelines for online magazines ({{% resource_link 1e42eafe-cdbc-42ac-6722-1d087e616074 "PDF" %}})
 
 Workshop
 --------
 
-Workshop guidelines ([PDF]({{< baseurl >}}/resources/wrkshp_gdln))
+Workshop guidelines ({{% resource_link bca22bb0-ef5f-5a15-db9b-8f2190eb6d87 "PDF" %}})
 
 Portfolio
 ---------
 
-Portfolio submission guidelines ([PDF]({{< baseurl >}}/resources/prfl_sbn_gdl))
+Portfolio submission guidelines ({{% resource_link 43643c9f-51eb-5650-b223-1468b8f4e454 "PDF" %}})
 
 Student Work
 ------------
