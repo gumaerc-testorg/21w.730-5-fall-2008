@@ -5,7 +5,8 @@ description: "Instructions for an investigative essay assignment\u2014 an essay 
   \ have been cultivating for many weeks, but also on information you gather from\
   \ sources outside your own experience in order to speak convincingly and with authority\
   \ on the subject you have chosen to write about."
-file: /courses/21w-730-5-writing-on-contemporary-issues-culture-shock-writing-editing-and-publishing-in-cyberspace-fall-2008/2b376bc34f8622395b9a03f982c14740_invest_esy.pdf
+file: /ol-ocw-studio-app/courses/21w-730-5-writing-on-contemporary-issues-culture-shock-writing-editing-and-publishing-in-cyberspace-fall-2008/2b376bc34f8622395b9a03f982c14740_invest_esy.pdf
+file_size: 25206
 file_type: application/pdf
 learning_resource_types:
 - Assignments
