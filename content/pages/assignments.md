@@ -35,4 +35,4 @@ Portfolio submission guidelines ({{% resource_link 43643c9f-51eb-5650-b223-1468b
 Student Work
 ------------
 
-Student work for this course is presented in [_Culture Shock!_ 2008](http://mitadmissions.org/blogs/entry/mit_culture_shock), an online literary magazine that is composed of essays. This is the seventh edition of the magazine, which began in 2000.
+Student work for this course is presented in {{% resource_link "62c99988-548c-4565-a10c-82f449ee239e" "_Culture Shock!_ 2008" %}}, an online literary magazine that is composed of essays. This is the seventh edition of the magazine, which began in 2000.
