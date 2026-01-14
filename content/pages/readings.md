@@ -15,9 +15,9 @@ Latterell, Catherine G. _ReMix: Reading and Composing Culture_. 1st ed. Boston, 
 
 Lunsford, Andrea A. _Easy Writer: A Pocket Reference_. 3rd ed. Boston, MA: Bedford/St. Martin's, 2005. ISBN: 9780312433093.
 
-Holson, Laura M. "{{% resource_link "d0e40ec7-9e98-49f4-b843-08d1b6229991" "Text Generation Gap: U R 2 Old" %}}." _The New York Times_, March 9, 2008.
+Holson, Laura M. "[Text Generation Gap: U R 2 Old](http://www.nytimes.com/2008/03/09/business/09cell.html)." _The New York Times_, March 9, 2008.
 
-Gladwell, Malcolm. "{{% resource_link "9152546b-a223-405e-b756-ec65fae4aef2" "The Coolhunt" %}}." _The New Yorker Archive_, March 17, 1997.
+Gladwell, Malcolm. "[The Coolhunt](https://www.newyorker.com/magazine/1997/03/17/the-coolhunt)." _The New Yorker Archive_, March 17, 1997.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -39,11 +39,11 @@ READINGS
 {{< tdopen >}}
 
 
-Gladwell, Malcom. "{{% resource_link "e0024b28-cf15-44ef-aab9-a253f81fd660" "Brain Candy" %}}." _The New Yorker_, May 16, 2005, 88-89.
+Gladwell, Malcom. "[Brain Candy](http://gladwell.typepad.com/)." _The New Yorker_, May 16, 2005, 88-89.
 
-Klosterman, Chuck. "{{% resource_link "0b62be9c-1620-478e-87e4-22305d0e0f38" "Campus Confidential" %}}." _The New York Times Book Review_, August 22, 2004, 10.
+Klosterman, Chuck. "[Campus Confidential](http://query.nytimes.com/gst/fullpage.html?res=9F05E7DF173FF931A1575BC0A9629C8B63&pagewanted=print)." _The New York Times Book Review_, August 22, 2004, 10.
 
-Gallagher, Hugh. "{{% resource_link "5ff7d7b9-5353-4209-a6da-a012e3776412" "College Essay" %}}."
+Gallagher, Hugh. "[College Essay](http://www-users.cs.york.ac.uk/susan/joke/essay.htm)."
 
 
 {{< tdclose >}}
@@ -94,7 +94,7 @@ In _ReMix_, "Community" chapter, selections
 
 Gladwell, Malcolm. "The Coolhunt." _The New Yorker_, March 17, 1997.
 
-Video: {{% resource_link "d803ef4d-9e56-448e-8c60-af23b10483a7" "The Merchants of Cool" %}}. Frontline. Directed by Barak Goodman. Boston, MA: WGBH Boston, 2001.
+Video: [The Merchants of Cool](http://www.pbs.org/wgbh/pages/frontline/shows/cool/). Frontline. Directed by Barak Goodman. Boston, MA: WGBH Boston, 2001.
 
 
 {{< tdclose >}}
